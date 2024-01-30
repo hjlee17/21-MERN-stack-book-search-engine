@@ -8,8 +8,7 @@ This is a short description explaining the what, why, and how of this project.
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
+- [Resources](#resources)
 - [Questions](#questions)
 
 ## Installation
@@ -21,11 +20,8 @@ Here are the instructions for use. Also, here is an example.
 ## License
 [The MIT License](https://opensource.org/licenses/MIT/)
 
-## Contributing
+## Resources
 Here is a list of contributors, with links to their Github profiles.
-
-## Tests
-n/a
 
 ## Questions
 - Github: [username](https://github.com/username)
